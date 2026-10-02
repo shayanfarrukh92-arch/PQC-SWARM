@@ -1,0 +1,5 @@
+build-essential
+cmake
+ninja-build
+git
+libssl-dev

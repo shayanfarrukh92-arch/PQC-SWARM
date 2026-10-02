@@ -1,0 +1,5 @@
+streamlit>=1.40
+pandas
+crewai>=0.100
+cryptography>=42
+liboqs-python
